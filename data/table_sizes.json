@@ -1,0 +1,103 @@
+{
+    "advising": {
+        "AREA": 76,
+        "COMMENT_INSTRUCTOR": 0,
+        "COURSE": 11453,
+        "COURSE_OFFERING": 151754,
+        "COURSE_PREREQUISITE": 43,
+        "COURSE_TAGS_COUNT": 0,
+        "GSI": 0,
+        "INSTRUCTOR": 9443,
+        "OFFERING_INSTRUCTOR": 159612,
+        "PROGRAM": 1,
+        "PROGRAM_COURSE": 39,
+        "PROGRAM_REQUIREMENT": 4,
+        "SEMESTER": 74,
+        "STUDENT": 11,
+        "STUDENT_RECORD": 86
+    },
+    "atis": {
+        "aircraft": 43,
+        "airline": 46,
+        "airport": 52,
+        "airport_service": 64,
+        "city": 46,
+        "class_of_service": 19,
+        "code_description": 7,
+        "compartment_class": 6,
+        "date_day": 2557,
+        "days": 233,
+        "dual_carrier": 23,
+        "equipment_sequence": 952,
+        "fare": 16252,
+        "fare_basis": 60,
+        "flight": 23457,
+        "flight_fare": 67230,
+        "flight_leg": 37021,
+        "flight_stop": 13564,
+        "food_service": 374,
+        "ground_service": 168,
+        "month": 12,
+        "restriction": 14,
+        "state": 26,
+        "time_interval": 13,
+        "time_zone": 4
+    },
+    "geography": {
+        "border_info": 218,
+        "city": 386,
+        "highlow": 51,
+        "lake": 32,
+        "mountain": 50,
+        "river": 149,
+        "state": 51
+    },
+    "restaurants": {
+        "GEOGRAPHIC": 167,
+        "LOCATION": 9539,
+        "RESTAURANT": 9589
+    },
+    "imdb": {
+        "actor": 2271923,
+        "cast": 9622097,
+        "classification": 2246259,
+        "company": 320874,
+        "copyright": 1242940,
+        "directed_by": 4882181,
+        "director": 590609,
+        "genre": 32,
+        "keyword": 175989,
+        "made_by": 6508714,
+        "movie": 1227117,
+        "producer": 993528,
+        "tags": 5001972,
+        "tv_series": 136045,
+        "writer": 764197,
+        "written_by": 4162901
+    },
+    "car_1": {
+        "car_makers": 23,
+        "car_names": 406,
+        "cars_data": 406,
+        "continents": 5,
+        "countries": 15,
+        "model_list": 36
+    },
+    "student_1": {
+        "list": 121,
+        "teachers": 25
+    },
+    "inn_1": {
+        "Reservations": 600,
+        "Rooms": 21
+    },
+    "formula_1": {
+        "circuits": 73,
+        "constructors": 208,
+        "constructorStandings": 11896,
+        "drivers": 842,
+        "races": 997,
+        "seasons": 69,
+        "status": 134
+    }
+}
