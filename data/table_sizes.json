@@ -1,20 +1,20 @@
 {
     "advising": {
-        "area": 76,
-        "comment_instructor": 0,
-        "course": 11453,
-        "course_offering": 151754,
-        "course_prerequisite": 43,
-        "course_tags_count": 0,
-        "gsi": 0,
-        "instructor": 9443,
-        "offering_instructor": 159612,
-        "program": 1,
-        "program_course": 39,
-        "program_requirement": 4,
-        "semester": 74,
-        "student": 11,
-        "student_record": 86
+        "AREA": 76,
+        "COMMENT_INSTRUCTOR": 0,
+        "COURSE": 11453,
+        "COURSE_OFFERING": 151754,
+        "COURSE_PREREQUISITE": 43,
+        "COURSE_TAGS_COUNT": 0,
+        "GSI": 0,
+        "INSTRUCTOR": 9443,
+        "OFFERING_INSTRUCTOR": 159612,
+        "PROGRAM": 1,
+        "PROGRAM_COURSE": 39,
+        "PROGRAM_REQUIREMENT": 4,
+        "SEMESTER": 74,
+        "STUDENT": 11,
+        "STUDENT_RECORD": 86
     },
     "atis": {
         "aircraft": 43,
@@ -53,9 +53,9 @@
         "state": 51
     },
     "restaurants": {
-        "geographic": 167,
-        "location": 9539,
-        "restaurant": 9589
+        "GEOGRAPHIC": 167,
+        "LOCATION": 9539,
+        "RESTAURANT": 9589
     },
     "imdb": {
         "actor": 2271923,
@@ -99,5 +99,14 @@
         "races": 997,
         "seasons": 69,
         "status": 134
+    },
+    "yelp": {
+        "business": 85899,
+        "category": 255697,
+        "checkin": 427343,
+        "neighborhood": 36056,
+        "review": 2685066,
+        "tip": 647767,
+        "user": 686110
     }
 }
