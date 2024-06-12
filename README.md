@@ -1,7 +1,6 @@
 <center>
 
-# Virtualization and Cloud Computing (CSE 291)  
-# ML for Systems: Classifying Queries
+# Virtualization and Cloud Computing (CSE 291) <br> ML for Systems: Classifying Queries
 
 </center>
 
