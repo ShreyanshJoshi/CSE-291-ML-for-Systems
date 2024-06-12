@@ -1,10 +1,6 @@
-<center>
-
 # Virtualization and Cloud Computing (CSE 291) <br> ML for Systems: Classifying Queries
 
-</center>
-
-
+Cloud systems have the potential to optimize their performance by making informed design decisions based on prior knowledge of workloads before their execution. One crucial aspect of this is understanding the expected execution time of SQL queries. The ability to predict whether a SQL query will have a long or short execution time can significantly impact the efficiency of resource allocation and scheduling within the cloud environment. This project aims to address the challenge of predicting the runtime of SQL queries using machine learning techniques.
 
 ## Project Directory Structure
 
