@@ -88,16 +88,25 @@
         "teachers": 25
     },
     "inn_1": {
-        "Reservations": 600,
-        "Rooms": 21
+        "reservations": 600,
+        "rooms": 21
     },
     "formula_1": {
         "circuits": 73,
         "constructors": 208,
-        "constructorStandings": 11896,
+        "constructorstandings": 11896,
         "drivers": 842,
         "races": 997,
         "seasons": 69,
         "status": 134
+    },
+    "yelp": {
+        "business": 85899,
+        "category": 255697,
+        "checkin": 427343,
+        "neighborhood": 36056,
+        "review": 2685066,
+        "tip": 647767,
+        "user": 686110
     }
 }

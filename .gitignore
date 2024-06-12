@@ -5,3 +5,7 @@ data.csv
 .ipynb_checkpoints/
 
 ./data/test/
+
+# These are too large
+data/db/imdb.sql
+data/db/yelp.sql
