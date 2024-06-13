@@ -29,7 +29,7 @@ The following is the directory structure of the project, along with a brief desc
         │   ├── atis.json: JSON file for atis data
         │   ├── ... (other JSON files)
         ├── runtime
-        │   ├── proccessed-data.csv: Processed data CSV file
+        │   ├── processed-data.csv: Processed data CSV file
         │   ├── query-runtime-advising.csv: Runtime data for advising data
         │   ├── ... (other runtime CSV files)
         └── table_sizes.json: JSON file containing table sizes
