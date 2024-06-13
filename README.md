@@ -14,8 +14,6 @@ The following is the directory structure of the project, along with a brief desc
     │   ├── feature-preprocessing.ipynb: Feature preprocessing notebook
     │   ├── get_table_size.ipynb: Notebook for getting table sizes
     │   ├── model_selection_evaluation.ipynb: Notebook for model selection and evaluation
-    │   ├── test_accuracies.png: Image showing test accuracies
-    │   └── test_f1.png: Image showing test F1 scores
     └── data
         ├── csv
         │   ├── advising.csv: CSV file for advising data
